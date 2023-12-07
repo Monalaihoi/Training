@@ -100,7 +100,7 @@ st.balloons()
 # Create a side bar to the left
 st.sidebar.title("Visual studio") # Use title
 st.sidebar.text("Mail address") # Use text
-st.sidebar.text("Parword")
+st.sidebar.text("Password")
 st.sidebar.button("Submit") # Use button
 st.sidebar.radio("Professional Expert", ["Student","Working", "Expert"])
 
